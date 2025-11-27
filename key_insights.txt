@@ -1,0 +1,9 @@
+================================================================================
+KEY INSIGHTS - Crypto Trader Behavior & Market Sentiment
+================================================================================
+
+1. BEST SENTIMENT: 'Greed' with avg PnL of $85.58
+2. HIGHEST WIN RATE: 'Extreme Greed' has 44.13% win rate
+3. MOST ACTIVE: 'Fear' has 134,739 trades
+4. LARGEST POSITIONS: 'Extreme Greed' ($6244.51)
+5. PROFITABILITY: 4/5 sentiment categories are profitable

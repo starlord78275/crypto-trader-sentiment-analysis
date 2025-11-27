@@ -1,0 +1,7 @@
+,Closed PnL,Closed PnL,Closed PnL,Closed PnL,Size USD,Size USD,Win,Loss
+,count,sum,mean,median,mean,median,sum,sum
+classification,,,,,,,,
+Extreme Greed,8622,170758.54,19.8,0.0,6244.51,1247.55,3805,1305
+Fear,134739,6902726.63,51.23,0.0,5242.13,604.42,56143,8979
+Greed,37455,3205478.05,85.58,0.0,3412.25,505.64,16514,3069
+Neutral,7141,158742.38,22.23,0.0,3058.85,554.16,2265,547
