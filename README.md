@@ -89,7 +89,5 @@ This assignment analyzes the relationship between Bitcoin market sentiment (Fear
 - **Environment:** Google Colab
 - **Data Processing:** Error-tolerant CSV parsing, datetime handling
 
----
 
-## 📂 Repository Structure
 
